@@ -45,7 +45,7 @@ client.on("message", message => {
 
     
 "scripts": {
-  "start": "node index.js"
+  "start": "node ssndex.js"
 },
 });
 
