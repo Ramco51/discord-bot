@@ -4,7 +4,7 @@ const ownerID ="467988314767753217";
 const client = new Discord.Client();
 const YTDL =require("ytdl-core");
 
-const TOKEN = "NTg3ODMyMTQ1MzY0Mzg1ODA1.XP8VjA.i3n2Zx1SE1eKjt2p5z6qL1vl4MA";
+const TOKEN = "nabacan";
 const PREFIX = "."
 const active = new Map();
 
