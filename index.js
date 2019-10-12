@@ -95,6 +95,5 @@ client.on("message", function(message){
 client.on("ready", () => console.log("Hazır!"));
 
 
-
-client.login(process.env.BOT_TOKEN);    
+client.login(process.env.TOKEN);
 
