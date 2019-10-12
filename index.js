@@ -44,7 +44,9 @@ client.on("message", message => {
 
 
     
-
+"scripts": {
+  "start": "node index.js"
+}
 });
 
 client.on("message", function(message){
