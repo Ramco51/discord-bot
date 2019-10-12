@@ -44,9 +44,7 @@ client.on("message", message => {
 
 
     
-"scripts": {
-  "start": "node ssndex.js"
-},
+
 });
 
 client.on("message", function(message){
